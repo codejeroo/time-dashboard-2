@@ -31,9 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/codejeroo/time-tracking-dashboard-main)
-- Live Site URL: [Website Link](https://codejeroo.github.io/time-tracking-dashboard-main/)
-
+- Solution URL: [Solution](https://github.com/codejeroo/time-dashboard-2)
+- Live Site URL: [Website Link](https://codejeroo.github.io/time-dashboard-2/)
 ## My process
 
 ### Built with
