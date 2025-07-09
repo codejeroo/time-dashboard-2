@@ -16,8 +16,8 @@ async function loadData() {
 // Update DOM content based on selected timeframe
 function updateContent(timeframe, data) {
   data.forEach((item, index) => {
-    let current = item.timeframes[timeframe].current;
-    let previous = item.timeframes[timeframe].previous;
+    const current = item.timeframes[timeframe].current;
+    const previous = item.timeframes[timeframe].previous;
 
     const currentLabel = current === 1 ? "hr" : "hrs";
     const previousLabel = previous === 1 ? "hr" : "hrs";
